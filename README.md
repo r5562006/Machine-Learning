@@ -47,6 +47,3 @@
   - [TensorFlow](https://www.tensorflow.org/)
   - [PyTorch](https://pytorch.org/)
 
-## 結論 🎉
-
-機器學習是一個充滿奇妙和無窮潛力的領域，無論你是剛入門的新手，還是經驗豐富的專家，這裡都充滿了驚喜和機會。快來探索這個充滿魔法的世界吧！✨
