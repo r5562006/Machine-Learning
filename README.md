@@ -113,13 +113,13 @@ supervised_learning/
 
 ```
 Semi-supervised_learning/
-├── Self-Training/      # 自訓練
-├── Co-training/        # 共訓練
-├── Label Propagation/  # 標籤傳播
-├── Semi-Supervised GANs/      # 半監督生成對抗網絡
-├── Label Spreading/                # 標籤傳遞
+├── Self-Training/                            # 自訓練
+├── Co-training/                              # 共訓練
+├── Label Propagation/                        # 標籤傳播
+├── Semi-Supervised GANs/                     # 半監督生成對抗網絡
+├── Label Spreading/                          # 標籤傳遞
 ├── Semi-Supervised Variational Autoencoders, VAE/      # 半監督變分自編碼器
-├── Semi-Supervised SVM/  # 半監督支持向量機
+├── Semi-Supervised SVM/                      # 半監督支持向量機
 ```
 
 ### 半監督學習的基本概念
